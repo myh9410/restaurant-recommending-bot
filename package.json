@@ -1,0 +1,21 @@
+{
+  "name": "moon",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "async": "^2.6.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jssoup": "0.0.10",
+    "pg": "^7.9.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
